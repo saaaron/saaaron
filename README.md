@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saaaron
+- 👋 Hi, I’m Aaron Saleh
 - 👀 I’m interested in Web & App Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building commercial applications
