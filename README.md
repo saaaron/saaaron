@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aaron Saleh
-- 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on building web applications
+- 👀 A passionate web developer and technical writer who loves to solve problems and share knowledge
 - 📫 How to reach me twitter.com/SaAaron6
 
 <!---
