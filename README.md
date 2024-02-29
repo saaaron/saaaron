@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron Saleh
-- 👀 A passionate web developer and technical writer who loves to solve problems and share knowledge
+- 👀 A passionate web and back-end developer who loves to solve problems and share knowledge
 - 📫 How to reach me twitter.com/SaAaron6
 
 <!---
